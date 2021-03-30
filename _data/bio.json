@@ -1,151 +1,131 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Manikanta Reddy Nayini",
+    "label": "Graduate Student",
+    "picture": "https://ManikantaReddyN.github.io/template/images/mani.jpg",
+    "email": "manikantareddy@csu.fullerton.edu",
+    "phone": "657-253-6448",
+    "website": "https://ManikantaReddyN.github.io",
+    "summary": "I am studying for a M.S in Computer Science at the California State University, Fullerton. I expect to graduate in Fall, 2021.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "292 Aspenridge Dr",
+      "postalCode": "95035",
+      "city": "Milpitas",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "San Francisco"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ManikantaReddyN",
+        "url": "http://github.com/ManikantaReddyN"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "manikantareddynayini",
+        "url": "https://www.linkedin.com/in/manikantareddynayini/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ManikantaNayini",
+        "url": "https://twitter.com/ManikantaNayini"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "dynamic_fool",
+        "url": "https://www.instagram.com/dynamic_fool/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Backend Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "Distributed Systems",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Machine Learning",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "C",
-        "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Query Languages",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "SQL",
+        "Plsql"
+      ]
+    },
+    {
+      "name": "Version Control",
+      "level": "",
+      "keywords": [
+        "Git"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "Mysql",
+        "MongoDb"
+      ]
+    },
+    {
+      "name": "API",
+      "level": "",
+      "keywords": [
+        "Boto3"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "California State University, Fullerton",
+      "area": "Computer Science (expected Fall, 2021)",
+      "studyType": "M.S.",
+      "startDate": "2020-13-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Advanced Algorithms","Advanced Networking","Machine Learning","Advance Database Management"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Jawaharlal Nehru Technology University Hyderabad",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
+      "startDate": "2016-12-03",
+      "endDate": "2016-30-11",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted Data Structures professor in teaching courses by developing course material, interacting with students in lab, class and online to answer their questions, grading exams and assignments.",
+        "Managed the Database of facilitator’s work hours, student attendance, course grades using MS Access and google sheets."
+        
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+  
   "awards": [
     {
       "title": "B+ Scholarship",
