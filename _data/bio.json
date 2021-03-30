@@ -115,33 +115,12 @@
       "website": "",
       "startDate": "2016-12-03",
       "endDate": "2016-30-11",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
         "Assisted Data Structures professor in teaching courses by developing course material, interacting with students in lab, class and online to answer their questions, grading exams and assignments.",
         "Managed the Database of facilitator’s work hours, student attendance, course grades using MS Access and google sheets."
         
       ]
-    }
-  ],
-  
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
     }
   ]
 }
