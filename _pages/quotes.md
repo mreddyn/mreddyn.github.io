@@ -34,3 +34,19 @@ nav_order: 5
 > #### Everything has a happy ending, if it’s not happy, then it’s not the end
 
 > #### The hardest wasn’t losing you, it was learning to live without you
+
+> #### Why do we only rest in peace. Why don’t we live in peace too
+
+> #### The heaviest burdens that we carry are the thoughts in our head
+
+> #### A strong man stands up for himself, a stronger man stands up for others
+
+> #### You are always afraid to take the first step because all you see is every negative thing 10 miles down the road
+
+> #### Reputation is what people think of you; character is What you are
+
+> #### Do you think God stays in heaven because he too lives in fear of what he is created
+ 
+> #### Happiness is not something you wait around for
+
+> #### Being alone never felt right. Sometimes it felt good, but never felt right
